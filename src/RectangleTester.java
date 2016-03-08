@@ -1,5 +1,5 @@
 /*
- * [A]101
+ * [A]102
  * [TA's advise]
  * 1.Rectangle拼錯了(Recyangle), 不影響程式運行, 以後要多注意喔!
  * 2.加入try-catch的方式非常好, 這應該是目前少數有看到的, extra bouns +1
